@@ -133,7 +133,7 @@ void loop() {
 
 <br> <br>
 
-**Avaliador:** Maria Arielly
+**Avaliador:** Nicolli Venino
 | **Critério**                                                                                                        | **Contempla (Pontos)** | **Contempla Parcialmente (Pontos)** | **Não Contempla (Pontos)** | **Observações do Avaliador** |
 | ------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------- | -------------------------- | ---------------------------- |
 | Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores                            | Até 3                  | Até 1,5                             | 0                          |    Apesar das cores dos fios não serem muito bem definidas para o positivo e o negativo, entende-se que o semáforo construído contempla uma montagem adequada, pois é possível entender as ligações feitas mesmo com essa observação.                          |
